@@ -3,4 +3,4 @@ A certificate produced by the University of Carleton's Math Enrichment Program f
 
 Course description: [Click Me](https://carleton.ca/math/math-enrichment-centre/math-enrichment-centre-robotic-programming/)
 
-<img src="Jacob-Lor/Carleton-University---Introduction-to-Computer-Engineering-Certification/blob/main/Adobe%20Scan%20Sep%2015%2C%202026.pdf" alt="Jacob Lor's Carleton University 'Introduction to Computer Engineering' certificate">
+!["Jacob Lor's Carleton University 'Introduction to Computer Engineering' certificate"](Adobe%20Scan%20Sep%2015%2C%202026.pdf)
